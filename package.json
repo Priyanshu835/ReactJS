@@ -1,0 +1,27 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "this is a react first app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Priyanshu835/ReactJS.git"
+  },
+  "author": "priyanshu rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyanshu835/ReactJS/issues"
+  },
+  "homepage": "https://github.com/Priyanshu835/ReactJS#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
